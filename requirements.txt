@@ -1,0 +1,5 @@
+camel-ai
+openai
+streamlit
+python-pptx
+python-dotenv
